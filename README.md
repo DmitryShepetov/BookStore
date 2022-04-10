@@ -7,6 +7,10 @@ Online store with chat, authorization, registration, password reset, email confi
 * .NET
 * Angular
 * SignalR
+* MailKit
+* EntityFramework
+* JwtBearer
+* MSQL
 
 ## Post Scriptum
 
